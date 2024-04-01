@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.login_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.Login{
+    padding: 2rem;
+    border-radius: 8px;
+    backdrop-filter: blur(22px);
+}
+
+#btn-login{
+    color: #370466;
+    font-weight: 500;
+}
