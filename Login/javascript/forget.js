@@ -95,6 +95,5 @@ if (code_message.toString().length == 4) {
         }
     }
 }else{
-    console.log('noooooooooooooooooooooooooooooooooooo');
     window.location.reload()
 }
